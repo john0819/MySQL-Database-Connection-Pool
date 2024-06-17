@@ -36,3 +36,9 @@ Stress test results show that for 5000 data insert operations, the single-thread
 
 ## Usage
 Include the `ConnectionPool` module in your project and obtain database connections by calling `ConnectionPool::getInstance()->getConnection()`. Connections are automatically returned to the pool after use.
+
+## Contribution
+Suggestions for improvements and code contributions are welcome. Please submit Pull Requests or Issues.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
