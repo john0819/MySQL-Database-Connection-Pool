@@ -4,6 +4,8 @@ Developed a C++ based MySQL database connection pool to improve the access effic
 ## Project Overview
 This project aims to enhance the efficiency of MySQL database access under high concurrency by developing a C++ based MySQL database connection pool. By reducing the frequent TCP connection setups and MySQL authentication processes, significant performance improvements are achieved.
 
+![image](https://github.com/john0819/MySQL-Database-Connection-Pool/assets/70586660/5d3f8a79-a521-4491-bf38-10cdbed22e35)
+
 ## Key Technologies
 - **Database Programming**: Utilized MySQL's C++ client library to encapsulate database connections and operations.
 - **Design Pattern**: Implemented the Singleton pattern to ensure the connection pool's uniqueness and global access.
